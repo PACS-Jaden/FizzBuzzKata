@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Y1w+Wy+rXV/aglI3y/hEqHarHats6sT+umsP0pujfWxTjIpgzmnjwDpbFYTsFGo8BWPDsFVaz8LKrIMRHAvEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaden.heinbach\\source\\repos\\FizzBuzz\\FizzBuzzClass\\FizzBuzzClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaden.heinbach\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\jaden.heinbach\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\jaden.heinbach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

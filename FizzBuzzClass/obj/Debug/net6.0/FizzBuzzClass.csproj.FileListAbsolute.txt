@@ -1,0 +1,12 @@
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\bin\Debug\net6.0\FizzBuzzClass.deps.json
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\bin\Debug\net6.0\FizzBuzzClass.dll
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\bin\Debug\net6.0\FizzBuzzClass.pdb
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.csproj.AssemblyReference.cache
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.AssemblyInfoInputs.cache
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.AssemblyInfo.cs
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.csproj.CoreCompileInputs.cache
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.dll
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\refint\FizzBuzzClass.dll
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\FizzBuzzClass.pdb
+C:\Users\jaden.heinbach\source\repos\FizzBuzz\FizzBuzzClass\obj\Debug\net6.0\ref\FizzBuzzClass.dll
